@@ -4,7 +4,7 @@
 
 🛑 Pré-Requisitos
 ✅ Conhecer a sintaxe da Java
-✅ Java JDK 11
+✅ Java JDK 17
 ✅ IDE para desenvolvimento Java (usarei IntelliJ)
 ✅ Git
 ✅ Conta no GitHub
